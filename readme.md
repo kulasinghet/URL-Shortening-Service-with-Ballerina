@@ -1,5 +1,7 @@
 # URL Shortening Services - Ballerina 
 
+![thumbnail](thumbnail.png)
+
 This Ballerina code represents a simple URL shortening service. It allows you to create shortened versions of URLs and retrieve them for redirection. Let's break down the code step by step.
 
 ## Imported Packages
