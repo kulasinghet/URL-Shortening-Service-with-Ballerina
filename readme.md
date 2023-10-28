@@ -4,7 +4,7 @@
 
 >This Ballerina code represents a simple URL shortening service. It allows you to create shortened versions of URLs and retrieve them for redirection. Let's break down the code step by step.
 
-Check out my  [Medium Article](https://medium.com/@kulasinghet/url-shortening-services-ballerina-4007b9ebe039) for the full explanation of the code and the  [YouTube Video]([https://youtu.be/](https://youtu.be/N4r_uNlxbZI))
+Check out my  [Medium Article](https://medium.com/@kulasinghet/url-shortening-services-ballerina-4007b9ebe039) for the full explanation of the code and the  [YouTube Video](https://youtu.be/](https://youtu.be/N4r_uNlxbZI))
 
 ## Imported Packages
 
