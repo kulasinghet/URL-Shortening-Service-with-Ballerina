@@ -2,7 +2,9 @@
 
 ![thumbnail](thumbnail.png)
 
-This Ballerina code represents a simple URL shortening service. It allows you to create shortened versions of URLs and retrieve them for redirection. Let's break down the code step by step.
+>This Ballerina code represents a simple URL shortening service. It allows you to create shortened versions of URLs and retrieve them for redirection. Let's break down the code step by step.
+
+Check out my  [Medium Article](https://medium.com/@kulasinghet/url-shortening-services-ballerina-4007b9ebe039) for the full explanation of the code and the  [YouTube Video](https://youtu.be/)
 
 ## Imported Packages
 
@@ -404,10 +406,10 @@ The response should be similar to the following:
 In the browser, navigate to `http://localhost:9090/xyz123`. The browser should redirect to `https://example.com`.
 
 
-Congratulations! You have successfully created a URL shortening service using Ballerina. For more information on the topics discussed in this guide, see the [Ballerina documentation](https://ballerina.io/).
+> Congratulations! You have successfully created a URL shortening service using Ballerina. For more information on the topics discussed in this guide, see the [Ballerina documentation](https://ballerina.io/).
 
 ---
 
 ### Full code
 
-Check out my GitHub repository for the full code of the URL shortening service.  [GitHub Repo](https://github.com/kulasinghet/URL-Shortening-Service-with-Ballerina)
+> Check out my GitHub repository for the full code of the URL shortening service.  [GitHub Repo](https://github.com/kulasinghet/URL-Shortening-Service-with-Ballerina)
